@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "libraryOfBooks"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-libraryOfBooks-64caf103-f020-4685-ac0f-05105aa30188;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
